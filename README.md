@@ -8,7 +8,8 @@
 ![Shell](https://img.shields.io/badge/Shell-Zsh%20%2B%20Zinit-black?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-Ghostty-8A2BE2?style=flat-square)
 
-<img src="assets/preview.png" width="780"/>
+<img src="assets/pic1.png" width="780"/>
+<img src="assets/pic2.png" width="780"/>
 
 </div>
 
