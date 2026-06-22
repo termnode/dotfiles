@@ -49,6 +49,10 @@ cp ~/dotfiles/ghostty/config.ghostty ~/.config/ghostty/config
 # Fastfetch
 mkdir -p ~/.config/fastfetch
 cp ~/dotfiles/fastfetch/config.jsonc ~/.config/fastfetch/config.jsonc
+
+# Zsh
+mkdir -p ~/.zshrc
+cp ~/dotfiles/zsh/.zshrc
 ```
 
 ---
@@ -60,6 +64,9 @@ cp ~/dotfiles/fastfetch/config.jsonc ~/.config/fastfetch/config.jsonc
 sudo dnf install fastfetch -y
 
 # Ghostty — download from https://ghostty.org
+
+# Zsh
+sudo dnf install zsh
 ```
 
 ---
