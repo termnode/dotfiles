@@ -2,7 +2,7 @@
 
 # ✦ termnode · dotfiles
 
-**My personal Linux config files — as seen on [TermNode](https://www.youtube.com/@TermNode)**
+**My personal Linux config files — as seen on [TermNode](https://www.youtube.com/@ModdingManiaTech)**
 
 ![Fedora](https://img.shields.io/badge/Fedora_44-KDE%20Plasma-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Zsh%20%2B%20Zinit-black?style=flat-square&logo=gnu-bash&logoColor=white)
