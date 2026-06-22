@@ -1,0 +1,21 @@
+{
+  "logo": {
+    "type": "small"
+  },
+
+  "modules": [
+    "title",
+    "break",
+    "os",
+    "kernel",
+    "shell",
+    "terminal",
+    "wm",
+    "cpu",
+    "gpu",
+    "memory",
+    "uptime",
+    "break",
+    "colors"
+  ]
+}
