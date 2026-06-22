@@ -74,7 +74,7 @@ sudo dnf install zsh
 ## Related Video
 
 > Watch the full terminal setup guide on YouTube:
-> **[Terminal Customization on Linux — Zsh + Zinit + Starship + Ghostty + Fastfetch](https://www.youtube.com/@TermNode)**
+> **[Terminal Customization on Linux — Zsh + Zinit + Starship + Ghostty + Fastfetch](https://youtu.be/dd4QqdoJus0?si=T25HQ0vZLAwbfs4P)**
 
 ---
 
