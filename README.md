@@ -1,4 +1,3 @@
-cat > ~/dotfiles/README.md << 'EOF'
 <div align="center">
 
 # ✦ termnode · dotfiles
@@ -29,3 +28,49 @@ cat > ~/dotfiles/README.md << 'EOF'
 ---
 
 ## What's Inside
+
+---
+
+## Install
+
+> ⚠️ Review configs before applying. These will overwrite your existing files.
+
+```bash
+git clone https://github.com/termnode/dotfiles.git ~/dotfiles
+```
+
+Then copy manually:
+
+```bash
+# Ghostty
+mkdir -p ~/.config/ghostty
+cp ~/dotfiles/ghostty/config.ghostty ~/.config/ghostty/config
+
+# Fastfetch
+mkdir -p ~/.config/fastfetch
+cp ~/dotfiles/fastfetch/config.jsonc ~/.config/fastfetch/config.jsonc
+```
+
+---
+
+## Dependencies
+
+```bash
+# Fastfetch
+sudo dnf install fastfetch -y
+
+# Ghostty — download from https://ghostty.org
+```
+
+---
+
+## Related Video
+
+> Watch the full terminal setup guide on YouTube:
+> **[Terminal Customization on Linux — Zsh + Zinit + Starship + Ghostty + Fastfetch](https://www.youtube.com/@TermNode)**
+
+---
+
+<div align="center">
+Made with ☕ on Fedora Linux &nbsp;·&nbsp; <a href="https://www.youtube.com/@TermNode">TermNode on YouTube</a>
+</div>
