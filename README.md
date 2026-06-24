@@ -2,7 +2,7 @@
 
 # ✦ termnode · dotfiles
 
-**My personal Linux config files — as seen on [TermNode](https://www.youtube.com/@ModdingManiaTech)**
+**My personal Linux config files — as seen on [TermNode](https://www.youtube.com/@TermNode)**
 
 ![Fedora](https://img.shields.io/badge/Fedora_44-KDE%20Plasma-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Zsh%20%2B%20Zinit-black?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -75,7 +75,7 @@ sudo dnf install zsh
 ## Related Video
 
 > Watch the full terminal setup guide on YouTube:
-> **[Terminal Customization on Linux — Zsh + Zinit + Starship + Ghostty + Fastfetch](https://youtu.be/dd4QqdoJus0?si=T25HQ0vZLAwbfs4P)**
+> **[Terminal Customization on Linux — Zsh + Zinit + Starship + Ghostty + Fastfetch](https://youtu.be/dd4QqdoJus0?si=UkbReQX1rvUbyQn2)**
 
 ---
 
